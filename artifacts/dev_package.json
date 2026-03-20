@@ -57,6 +57,12 @@
 	"ai_tool": [],
 	"ai_guardrail": [],
 	"path_rewrite": [],
-	"font": [],
+	"font": [
+		{
+			"id": "a97ba96c-f20b-4adc-84cf-54707d75cc73",
+			"name": "Comic Sans",
+			"description": null
+		}
+	],
 	"vault": []
 }

@@ -1,0 +1,18 @@
+{
+	"id": "a97ba96c-f20b-4adc-84cf-54707d75cc73",
+	"createdAt": "2026-03-12T07:42:42.673Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"config": {
+		"styles": {
+			"regular": "Comic Sans MS.ttf",
+			"bold": "Comic Sans MS.ttf",
+			"italics": "Comic Sans MS.ttf",
+			"bolditalics": "Comic Sans MS.ttf"
+		}
+	},
+	"name": "Comic Sans",
+	"description": null,
+	"type": "text",
+	"enablePDF": true,
+	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02"
+}
