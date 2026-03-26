@@ -5,13 +5,13 @@
 	"config": {
 		"pdf": {
 			"regular": "Comic Sans MS.ttf",
-			"bold": "Comic Sans MS Bold.ttf",
-			"italics": "Comic Sans MS Bold.ttf",
-			"bolditalics": "Comic Sans MS Bold.ttf"
+			"bold": "Comic Sans MS.ttf",
+			"italics": "Comic Sans MS.ttf",
+			"bolditalics": "Comic Sans MS.ttf"
 		}
 	},
 	"name": "Comic Sans",
-	"description": null,
+	"description": "123",
 	"type": "text",
 	"enablePDF": true,
 	"enableWeb": false,
