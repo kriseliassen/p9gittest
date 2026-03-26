@@ -1,6 +1,6 @@
 {
-	"id": "31819729-8b3a-474d-be3e-5fc7b4e27943",
-	"createdAt": "2026-03-24T12:03:34.827Z",
+	"id": "8a60f009-35eb-456b-817c-69cb38fda970",
+	"createdAt": "2026-03-26T13:23:22.528Z",
 	"createdBy": "kristin.eliassen@neptune-software.com",
 	"config": {
 		"pdf": {
@@ -10,10 +10,10 @@
 			"italics": null
 		},
 		"web": {
-			"regular": "agdasima-v5-latin-regular.woff2",
+			"regular": "agdasima-v5-latin-700.woff2",
 			"bold": "agdasima-v5-latin-700.woff2",
 			"semiBold": "agdasima-v5-latin-700.woff2",
-			"light": "agdasima-v5-latin-regular.woff2",
+			"light": "agdasima-v5-latin-700.woff2",
 			"semiBoldDuplex": "agdasima-v5-latin-700.woff2",
 			"black": "agdasima-v5-latin-700.woff2"
 		}

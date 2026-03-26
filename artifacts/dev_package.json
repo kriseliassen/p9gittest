@@ -24,8 +24,8 @@
 	"theme": [],
 	"theme_generator": [
 		{
-			"id": "f02ed7b2-57a5-4ecc-81c0-0a32ef84898a",
-			"name": "customfont",
+			"id": "410ddb5a-d863-4cc0-85de-43dd57360e9f",
+			"name": "cooltheme_dark",
 			"description": null
 		}
 	],
@@ -71,7 +71,7 @@
 	"path_rewrite": [],
 	"font": [
 		{
-			"id": "31819729-8b3a-474d-be3e-5fc7b4e27943",
+			"id": "8a60f009-35eb-456b-817c-69cb38fda970",
 			"name": "Agdasima",
 			"description": null
 		}

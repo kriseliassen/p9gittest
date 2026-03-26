@@ -1,9 +1,9 @@
 {
-	"id": "f02ed7b2-57a5-4ecc-81c0-0a32ef84898a",
-	"createdAt": "2026-03-26T08:21:04.149Z",
+	"id": "410ddb5a-d863-4cc0-85de-43dd57360e9f",
+	"createdAt": "2026-03-26T09:29:06.351Z",
 	"createdBy": "kristin.eliassen@neptune-software.com",
-	"name": "customfont",
-	"ver": "26.03.26.1157",
+	"name": "cooltheme_dark",
+	"ver": "26.03.26.1427",
 	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02",
 	"active": false,
 	"description": null,
@@ -1677,7 +1677,7 @@
 		"}",
 		"@font-face {",
 		"  font-family: Agdasima-Regular;",
-		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-regular.woff2') format('woff2');",
+		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-700.woff2') format('woff2');",
 		"}",
 		"@font-face {",
 		"  font-family: Agdasima-Bold;",
@@ -1689,7 +1689,7 @@
 		"}",
 		"@font-face {",
 		"  font-family: Agdasima-Light;",
-		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-regular.woff2') format('woff2');",
+		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-700.woff2') format('woff2');",
 		"}",
 		"@font-face {",
 		"  font-family: Agdasima-SemiBoldDuplex;",
@@ -1697,7 +1697,7 @@
 		"}",
 		"@font-face {",
 		"  font-family: Agdasima-Italic;",
-		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-regular.woff2') format('woff2');",
+		"  src: url('/public/fonts/Agdasima/agdasima-v5-latin-700.woff2') format('woff2');",
 		"  font-style: italic;",
 		"}",
 		"@font-face {",
@@ -1706,9 +1706,5 @@
 		"}",
 		""
 	],
-	"FONT_FAMILY": "31819729-8b3a-474d-be3e-5fc7b4e27943",
-	"fontObj": {
-		"id": "31819729-8b3a-474d-be3e-5fc7b4e27943",
-		"name": "Agdasima"
-	}
+	"FONT_FAMILY": "8a60f009-35eb-456b-817c-69cb38fda970"
 }
