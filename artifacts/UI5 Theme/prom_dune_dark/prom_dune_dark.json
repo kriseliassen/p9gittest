@@ -1,0 +1,11 @@
+{
+	"id": "38405511-e33a-4ff3-8cf0-0cdad8503f37",
+	"createdAt": "2026-03-03T09:50:55.780Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"theme": "prom_dune_dark",
+	"ver": "26.03.26.1202",
+	"ui5ver": "1.120.27",
+	"extends": "sap_horizon_dark",
+	"description": "Prom Dune Dark 1.120",
+	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02"
+}

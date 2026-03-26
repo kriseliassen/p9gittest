@@ -22,7 +22,13 @@
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
-	"theme_generator": [],
+	"theme_generator": [
+		{
+			"id": "f02ed7b2-57a5-4ecc-81c0-0a32ef84898a",
+			"name": "customfont",
+			"description": null
+		}
+	],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -48,7 +54,13 @@
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": [],
+	"theme_ui5": [
+		{
+			"id": "38405511-e33a-4ff3-8cf0-0cdad8503f37",
+			"theme": "prom_dune_dark",
+			"description": "Prom Dune Dark 1.120"
+		}
+	],
 	"webapp": [],
 	"ui5_control": [],
 	"ai_agent": [],
@@ -59,7 +71,7 @@
 	"path_rewrite": [],
 	"font": [
 		{
-			"id": "a97ba96c-f20b-4adc-84cf-54707d75cc73",
+			"id": "118d0fcb-cc06-460e-ab53-a1cf7710f5ae",
 			"name": "Comic Sans",
 			"description": null
 		}
