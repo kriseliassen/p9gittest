@@ -56,7 +56,7 @@
 	"wf_taskaction": [],
 	"theme_ui5": [
 		{
-			"id": "177ee4ee-d1b7-43ba-a49e-51c2f3b779d1",
+			"id": "2e6db83b-2c64-429d-bd6a-f5a34b0054b0",
 			"theme": "prom_dune_dark",
 			"description": "Prom Dune Dark 1.120"
 		}
@@ -71,9 +71,9 @@
 	"path_rewrite": [],
 	"font": [
 		{
-			"id": "118d0fcb-cc06-460e-ab53-a1cf7710f5ae",
-			"name": "Comic Sans",
-			"description": "123"
+			"id": "31819729-8b3a-474d-be3e-5fc7b4e27943",
+			"name": "Agdasima",
+			"description": null
 		}
 	],
 	"vault": []

@@ -1,0 +1,27 @@
+{
+	"id": "31819729-8b3a-474d-be3e-5fc7b4e27943",
+	"createdAt": "2026-03-24T12:03:34.827Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"config": {
+		"pdf": {
+			"regular": null,
+			"bolditalics": null,
+			"bold": null,
+			"italics": null
+		},
+		"web": {
+			"regular": "agdasima-v5-latin-regular.woff2",
+			"bold": "agdasima-v5-latin-700.woff2",
+			"semiBold": "agdasima-v5-latin-700.woff2",
+			"light": "agdasima-v5-latin-regular.woff2",
+			"semiBoldDuplex": "agdasima-v5-latin-700.woff2",
+			"black": "agdasima-v5-latin-700.woff2"
+		}
+	},
+	"name": "Agdasima",
+	"description": null,
+	"type": "text",
+	"enablePDF": false,
+	"enableWeb": true,
+	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02"
+}

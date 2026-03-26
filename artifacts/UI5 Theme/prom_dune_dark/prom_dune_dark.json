@@ -1,9 +1,9 @@
 {
-	"id": "177ee4ee-d1b7-43ba-a49e-51c2f3b779d1",
-	"createdAt": "2026-03-26T11:33:19.810Z",
+	"id": "2e6db83b-2c64-429d-bd6a-f5a34b0054b0",
+	"createdAt": "2026-03-26T12:13:17.035Z",
 	"createdBy": "kristin.eliassen@neptune-software.com",
 	"theme": "prom_dune_dark",
-	"ver": "26.03.26.1233",
+	"ver": "26.03.26.1313",
 	"ui5ver": "1.120.27",
 	"extends": "sap_horizon_dark",
 	"description": "Prom Dune Dark 1.120",
