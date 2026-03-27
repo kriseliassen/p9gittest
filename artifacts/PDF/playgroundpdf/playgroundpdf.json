@@ -1,6 +1,6 @@
 {
 	"id": "349c2f87-d99a-4d1d-a09a-7daf7a184d32",
-	"createdAt": "2026-01-13T08:46:01.605Z",
+	"createdAt": "2026-03-27T11:37:56.890Z",
 	"createdBy": "kristin.eliassen@neptune-software.com",
 	"interface": [
 		{
@@ -98,21 +98,8 @@
 	"status": "Active",
 	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02",
 	"disabled": false,
-	"testdata": [
-		"{",
-		"    \"people\": [",
-		"        {",
-		"            \"name\": \"Ola\",",
-		"            \"color\": \"red\"",
-		"        },",
-		"        {",
-		"            \"name\": \"Kari\",",
-		"            \"color\": \"blue\"",
-		"        }",
-		"    ]",
-		"}"
-	],
-	"ver": "26.03.27.1213",
+	"testdata": "file:///testdata.js",
+	"ver": "26.03.27.1238",
 	"publicAccess": false,
 	"enableStorage": false,
 	"dd": null,
