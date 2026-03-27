@@ -1,0 +1,87 @@
+{
+	"id": "349c2f87-d99a-4d1d-a09a-7daf7a184d32",
+	"createdAt": "2026-01-13T08:46:01.605Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "adac439f-991b-41f6-a58b-63b5394fd801",
+			"fieldName": "Settings",
+			"fieldParent": 0,
+			"fieldPos": 1,
+			"fieldType": "neptune.pdf.settings",
+			"fieldDescription": "PDF Settings",
+			"attributes": []
+		},
+		{
+			"fieldNo": "545003a2-a483-4846-9bcb-c32d5143ad15",
+			"fieldName": "Content",
+			"fieldParent": 0,
+			"fieldPos": 2,
+			"fieldType": "neptune.pdf.content",
+			"fieldDescription": "Main PDF content area ",
+			"attributes": []
+		},
+		{
+			"fieldNo": "3c2a75b1-ecda-462f-c116-ecc2bc7bf676",
+			"fieldName": "TextComicSans",
+			"fieldParent": "545003a2-a483-4846-9bcb-c32d5143ad15",
+			"fieldPos": 3,
+			"fieldType": "neptune.pdf.text",
+			"attributes": [
+				{
+					"attribute": "text",
+					"grouping": "Properties",
+					"value": "This is a text",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "font",
+					"grouping": "Font",
+					"value": "Comic Sans",
+					"script": "",
+					"translation": []
+				}
+			]
+		},
+		{
+			"fieldNo": "967c8b9a-d3f4-4438-cdf5-0d499652d698",
+			"fieldName": "Default Style",
+			"fieldParent": 0,
+			"fieldPos": 4,
+			"fieldType": "neptune.pdf.defaultstyle",
+			"attributes": [
+				{
+					"attribute": "fontSize",
+					"grouping": "Properties",
+					"value": "24",
+					"script": "",
+					"translation": []
+				}
+			]
+		},
+		{
+			"fieldNo": "e4997400-1e5a-40fb-f144-91bddbf1585f",
+			"fieldName": "Styles",
+			"fieldParent": 0,
+			"fieldPos": 5,
+			"fieldType": "neptune.pdf.styles",
+			"fieldDescription": "Define your custom styles and assign to objects",
+			"attributes": []
+		}
+	],
+	"application": "playgroundpdf",
+	"description": "",
+	"status": "Active",
+	"disabled": false,
+	"ver": "26.03.27.1035",
+	"publicAccess": false,
+	"enableStorage": false,
+	"dd": null,
+	"fonts": [
+		{
+			"id": "118d0fcb-cc06-460e-ab53-a1cf7710f5ae",
+			"name": "Comic Sans"
+		}
+	]
+}

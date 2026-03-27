@@ -29,7 +29,13 @@
 			"description": null
 		}
 	],
-	"pdf": [],
+	"pdf": [
+		{
+			"id": "349c2f87-d99a-4d1d-a09a-7daf7a184d32",
+			"application": "playgroundpdf",
+			"description": ""
+		}
+	],
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],
@@ -68,6 +74,11 @@
 			"id": "8a60f009-35eb-456b-817c-69cb38fda970",
 			"name": "Agdasima",
 			"description": "web font"
+		},
+		{
+			"id": "118d0fcb-cc06-460e-ab53-a1cf7710f5ae",
+			"name": "Comic Sans",
+			"description": ""
 		}
 	],
 	"vault": []
