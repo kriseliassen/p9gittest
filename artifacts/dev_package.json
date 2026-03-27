@@ -8,7 +8,7 @@
 	},
 	"name": "p9gittest",
 	"description": null,
-	"ver": "26.03.20.1412",
+	"ver": "26.03.27.1022",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -54,13 +54,7 @@
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": [
-		{
-			"id": "2e6db83b-2c64-429d-bd6a-f5a34b0054b0",
-			"theme": "prom_dune_dark",
-			"description": "Prom Dune Dark 1.120"
-		}
-	],
+	"theme_ui5": [],
 	"webapp": [],
 	"ui5_control": [],
 	"ai_agent": [],
@@ -73,7 +67,7 @@
 		{
 			"id": "8a60f009-35eb-456b-817c-69cb38fda970",
 			"name": "Agdasima",
-			"description": null
+			"description": "web font"
 		}
 	],
 	"vault": []
