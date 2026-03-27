@@ -99,7 +99,6 @@
 	"package": "c7e9aa30-2cf2-4d59-a9bb-906eabad1d02",
 	"disabled": false,
 	"testdata": [
-		"==OBJECT STRING==",
 		"{",
 		"    \"people\": [",
 		"        {",
